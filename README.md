@@ -33,18 +33,3 @@ Introduction to Unet architecture, widely used for image segmentation tasks.
 ## Principal Component Analysis (PCA)
 
 Understand Principal Component Analysis for dimensionality reduction.
-
-## Getting Started
-
-Navigate to each topic's folder to find the README file, providing instructions for running the code.
-
-## Prerequisites
-
-Basic understanding of machine learning concepts and familiarity with Python and relevant libraries.
-
-## Acknowledgments
-
-I completed this course to deepen my understanding of machine learning fundamentals. I hope you find this repository helpful in your machine learning journey. Remember, there's always more to explore beyond these fundamentals.
-
-Happy learning!
-[Your Name]
